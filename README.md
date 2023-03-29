@@ -1,3 +1,6 @@
+# CrowdFide for Node.js
+Source: RU102JS Redis for JavaScript Developers Course
+
 MIT License
 
 Copyright (c) 2020 Redis
@@ -19,8 +22,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-# RediSolar for Node.js
 
 ![Preview of running application - Solar Site Map with markers](preview.png)
 

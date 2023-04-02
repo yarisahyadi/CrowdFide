@@ -1049,7 +1049,7 @@ webpackJsonp([1], {
                     attrs: {
                         href: "#"
                     }
-                }, [t._v("Solar Power Dashboard")]), t._v(" "), t._m(0), t._v(" "), e("div", {
+                }, [t._v("Crowd Monitoring Dashboard")]), t._v(" "), t._m(0), t._v(" "), e("div", {
                     staticClass: "collapse navbar-collapse",
                     attrs: {
                         id: "navbarSupportedContent"

@@ -661,15 +661,11 @@ webpackJsonp([1], {
                         attrs: {
                             scope: "col"
                         }
-                    }, [t._v("Watt-hours Generated")]), t._v(" "), e("td", {
+                    }, [t._v("Capacity")]), t._v(" "), e("td", {
                         attrs: {
                             scope: "col"
                         }
-                    }, [t._v("Watt-hours Used")]), t._v(" "), e("td", {
-                        attrs: {
-                            scope: "col"
-                        }
-                    }, [t._v("Temp (Celsius)")])])])
+                    }, [t._v("Capacity Used")]), t._v(" ")])])
                 }]
             };
         var w = e("VU/8")(A, E, !1, function(t) {

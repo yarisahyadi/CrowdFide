@@ -1042,7 +1042,7 @@ webpackJsonp([1], {
                 }, [e("img", {
                     staticClass: "navbar-brand",
                     attrs: {
-                        src: "/static/img/redis-u-small.png"
+                        src: "/static/img/crowdfide-logo.png"
                     }
                 }), t._v(" "), e("a", {
                     staticClass: "navbar-brand text-white",

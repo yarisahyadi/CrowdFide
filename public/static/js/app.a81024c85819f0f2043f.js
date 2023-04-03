@@ -305,7 +305,7 @@ webpackJsonp([1], {
                         staticClass: "container"
                     }, [a("h1", {
                         staticClass: "header"
-                    }, [this._v("Solar Site " + this._s(this.siteId))]), this._v(" "), a("canvas", {
+                    }, [this._v("Crowd Site " + this._s(this.siteId))]), this._v(" "), a("canvas", {
                         attrs: {
                             id: "myChart"
                         }

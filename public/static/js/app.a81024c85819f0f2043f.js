@@ -414,7 +414,7 @@ webpackJsonp([1], {
                                     }],
                                     yAxes: [{
                                         scaleLabel: {
-                                            labelString: "Watt-Hours",
+                                            labelString: "Count",
                                             display: !0
                                         }
                                     }]
@@ -448,7 +448,7 @@ webpackJsonp([1], {
                                     }],
                                     yAxes: [{
                                         scaleLabel: {
-                                            labelString: "Watt-Hours",
+                                            labelString: "Count",
                                             display: !0
                                         }
                                     }]

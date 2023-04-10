@@ -20,11 +20,11 @@ const getMetricsForSite = async (siteId, limit) => {
 
   return ([{
     measurements: metrics[0],
-    name: 'Watt-Hours Generated',
-  }, {
+    name: 'People Counted',
+  }]);/*, {
     measurements: metrics[1],
     name: 'Watt-Hours Used',
-  }]);
+  }]);*/
 };
 
 module.exports = {

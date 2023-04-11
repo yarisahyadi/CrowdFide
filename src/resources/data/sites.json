@@ -52,212 +52,212 @@
         "address": "Labtek VII "
     },
     {
-        "city": "Fremont",
-        "state": "CA",
-        "postalCode": "94536",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 5,
         "panels": 9,
         "capacity": 13.5,
         "coordinate": {
-            "lat": 37.562256,
-            "lng": -121.976451
+            "lat": -6.890364593405469, 
+            "lng": 107.61199471099266
         },
-        "address": "38676 Greenwich Circle "
+        "address": "GKU Timur "
     },
     {
-        "city": "Oakland",
-        "state": "CA",
-        "postalCode": "94601",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 6,
         "panels": 9,
         "capacity": 13.5,
         "coordinate": {
-            "lat": 37.783431,
-            "lng": -122.228238
+            "lat": -6.890394719963065, 
+            "lng": 107.6088159956724
         },
-        "address": "1732 27th Avenue "
+        "address": "GKU Barat "
     },
     {
-        "city": "Berkeley",
-        "state": "CA",
-        "postalCode": "94709",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 7,
         "panels": 9,
         "capacity": 13.5,
         "coordinate": {
-            "lat": 37.877894,
-            "lng": -122.266436
+            "lat": -6.890524405568661, 
+            "lng": 107.60828502096857
         },
-        "address": "1643 Oxford Street R C"
+        "address": "Sekretariat IMT "
     },
     {
-        "city": "Hayward",
-        "state": "CA",
-        "postalCode": "94544",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 8,
         "panels": 8,
         "capacity": 12.0,
         "coordinate": {
-            "lat": 37.6410262,
-            "lng": -122.0864272
+            "lat": -6.890647561712793, 
+            "lng": 107.60830983140085
         },
-        "address": "26466 Mockingbird Lane "
+        "address": "LTRGM R. Kuliah 1 "
     },
     {
-        "city": "Livermore",
-        "state": "CA",
-        "postalCode": "94551",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 9,
         "panels": 5,
         "capacity": 7.5,
         "coordinate": {
-            "lat": 37.710745,
-            "lng": -121.732765
+            "lat": -6.890559688142954, 
+            "lng": 107.60832458354977
         },
-        "address": "1004 Bellflower Street "
+        "address": "LTRGM R. Kuliah 2 "
     },
     {
-        "city": "Fremont",
-        "state": "CA",
-        "postalCode": "94555",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 10,
         "panels": 3,
         "capacity": 4.5,
         "coordinate": {
-            "lat": 37.5666441,
-            "lng": -122.0444344
+            "lat": -6.890626259030695, 
+            "lng": 107.6083755455188
         },
-        "address": "4738 Mallard Common "
+        "address": "Lab. Radar "
     },
     {
-        "city": "Fremont",
-        "state": "CA",
-        "postalCode": "94536",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 11,
         "panels": 9,
         "capacity": 13.5,
         "coordinate": {
-            "lat": 37.557882,
-            "lng": -121.986823
+            "lat": -6.890617756225793, 
+            "lng": 107.61057352455482
         },
-        "address": "2755 Country Drive #244"
+        "address": "Smart classroom labtek VIII "
     },
     {
-        "city": "Fremont",
-        "state": "CA",
-        "postalCode": "94536",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 12,
         "panels": 2,
         "capacity": 3.0,
         "coordinate": {
-            "lat": 37.582453,
-            "lng": -121.994476
+            "lat": -6.890485945856621, 
+            "lng": 107.61056145461481
         },
-        "address": "145 Grau Drive "
+        "address": "Lab. Jarkom "
     },
     {
-        "city": "Pleasanton",
-        "state": "CA",
-        "postalCode": "94588",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 13,
         "panels": 8,
         "capacity": 12.0,
         "coordinate": {
-            "lat": 37.6992001,
-            "lng": -121.8703701
+            "lat": -6.890580476529131, 
+            "lng": 107.61069355340294
         },
-        "address": "3959 Fairlands Drive "
+        "address": "RSD Telmat "
     },
     {
-        "city": "San Lorenzo",
-        "state": "CA",
-        "postalCode": "94580",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 14,
         "panels": 8,
         "capacity": 12.0,
         "coordinate": {
-            "lat": 37.67869,
-            "lng": -122.117142
+            "lat": -6.890483948729545, 
+            "lng": 107.6107290926708
         },
-        "address": "90 Via Verde "
+        "address": "Lab. Sistem Digital "
     },
     {
-        "city": "Oakland",
-        "state": "CA",
-        "postalCode": "94608",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 15,
         "panels": 2,
         "capacity": 3.0,
         "coordinate": {
-            "lat": 37.84557849999999,
-            "lng": -122.2825201
+            "lat": -6.890472631675882, 
+            "lng": 107.61090209514458
         },
-        "address": "6214 Herzog Street "
+        "address": "Lab. Telmat R. Kuliah 2 "
     },
     {
-        "city": "Oakland",
-        "state": "CA",
-        "postalCode": "94621",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 16,
         "panels": 9,
         "capacity": 13.5,
         "coordinate": {
-            "lat": 37.767671,
-            "lng": -122.202326
+            "lat": -6.889467223779015, 
+            "lng": 107.61067077445288
         },
-        "address": "1452 55th Avenue B"
+        "address": "Gedung PLN-ITB "
     },
     {
-        "city": "Fremont",
-        "state": "CA",
-        "postalCode": "94555",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 17,
         "panels": 6,
         "capacity": 9.0,
         "coordinate": {
-            "lat": 37.5738888,
-            "lng": -122.0460256
+            "lat": -6.889475140455078, 
+            "lng": 107.6100679207932
         },
-        "address": "4255 Tanager Common "
+        "address": "TVST "
     },
     {
-        "city": "Oakland",
-        "state": "CA",
-        "postalCode": "94605",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 18,
         "panels": 5,
         "capacity": 7.5,
         "coordinate": {
-            "lat": 37.752039,
-            "lng": -122.11822
+            "lat": -6.889044473085171, 
+            "lng": 107.6100551619856
         },
-        "address": "11150 Sun Valley Drive "
+        "address": "Oktagon "
     },
     {
-        "city": "Oakland",
-        "state": "CA",
-        "postalCode": "94605",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 19,
         "panels": 3,
         "capacity": 4.5,
         "coordinate": {
-            "lat": 37.7705346,
-            "lng": -122.1907449
+            "lat": -6.889057139778104, 
+            "lng": 107.61060857526577
         },
-        "address": "2515 60th Avenue "
+        "address": "Lab. Fisika Dasar "
     },
     {
-        "city": "San Leandro",
-        "state": "CA",
-        "postalCode": "94577",
+        "city": "ITB",
+        "state": "Bandung",
+        "postalCode": "40132",
         "id": 20,
         "panels": 7,
         "capacity": 10.5,
         "coordinate": {
-            "lat": 37.72956300000001,
-            "lng": -122.147074
+            "lat": -6.888292387563698, 
+            "lng": 107.61065961049157
         },
-        "address": "1011 San Jose Street "
+        "address": "Perpustakaan Pusat "
     },
     {
         "city": "Castro Valley",

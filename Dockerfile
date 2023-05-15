@@ -12,7 +12,6 @@ RUN npm install
 
 # Copy the application code into the container
 COPY . .
-RUN chmod +x starting-script.sh
 
 # Expose port 8081 for the application to listen on
 EXPOSE 8081

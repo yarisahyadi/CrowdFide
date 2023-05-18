@@ -30,7 +30,7 @@ const port = config.get('application.port');
 // Start the server.
 app.listen(port, () => {
   banner();
-  logger.info(`RediSolar listening on port ${port}, using database: ${config.get('application.dataStore')}`);
+  logger.info(`CrowdFide is listening on port ${port}, using database: ${config.get('application.dataStore')}`);
 });
 
 // For test framework purposes...

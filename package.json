@@ -1,7 +1,7 @@
 {
-  "name": "redisolar",
+  "name": "crowdfide",
   "version": "1.0.0",
-  "description": "Example application for Redis University RU102JS course.",
+  "description": "Example application for crowd monitoring system",
   "main": "./src/app.js",
   "directories": {
     "test": "test"

@@ -20,10 +20,10 @@ const getMetricsForSite = async (siteId, limit) => {
 
   return ([{
     measurements: metrics[0],
-    name: 'People Counted',
+    name: 'Capacity',
   }, {
     measurements: metrics[1],
-    name: 'Capacity',
+    name: 'People Counted',
   }]);
 };
 

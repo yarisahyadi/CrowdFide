@@ -512,7 +512,7 @@ webpackJsonp([1], {
                         staticClass: "header"
                     }, [this._v("Site Capacity")]), this._v(" "), a("h3", {
                         staticClass: "header"
-                    }, [this._v("Top 10 Capacity")]), this._v(" "), a("canvas", {
+                    }, [this._v("Under Maximum Capacity")]), this._v(" "), a("canvas", {
                         attrs: {
                             id: "maxChart"
                         }
@@ -539,7 +539,7 @@ webpackJsonp([1], {
                         staticStyle: {
                             "margin-top": "1em"
                         }
-                    }, [this._v("Bottom 10 Capacity")]), this._v(" "), a("canvas", {
+                    }, [this._v("Over Maximum Capacity")]), this._v(" "), a("canvas", {
                         attrs: {
                             id: "minChart"
                         }

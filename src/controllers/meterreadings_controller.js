@@ -12,14 +12,18 @@ const feedDao = require('../daos/feed_dao');
  * @returns {Promise} - a promise that resolves when the operation is complete.
  */
 const createMeterReadings = async (meterReadings) => {
-  for (const meterReading of meterReadings) {
+   
+
     /* eslint-disable no-await-in-loop */
-    await metricDao.insert(meterReading);
-    await siteStatsDao.update(meterReading);
-    await capacityDao.update(meterReading);
-    await feedDao.insert(meterReading);
+    await metricDao.insert(meterReadings);
+    
+    await siteStatsDao.update(meterReadings);
+    
+    await capacityDao.update(meterReadings);
+    
+    await feedDao.insert(meterReadings);
     /* eslint-enable */
-  }
+
 };
 
 /**

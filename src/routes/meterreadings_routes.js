@@ -23,17 +23,17 @@ const getLimit = (n) => {
 // Body is array of objects as described below.
 router.post(
   '/meterreadings',
-  [
-    body().isArray(),
-    body('*.siteId').isInt(),
-    body('*.dateTime').isInt({ min: 0 }),
-    body('*.whUsed').isFloat({ min: 0 }),
-    body('*.whGenerated').isFloat({ min: 0 }),
-    body('*.tempC').isFloat(),
+ [
+    body('siteId').isInt(),
+    body('dateTime').isInt({ min: 0 }),
+    body('whUsed').isFloat({ min: 0 }),
+    body('whGenerated').isFloat({ min: 0 }),
+    body('tempC').isFloat(),
     apiErrorReporter,
   ],
   async (req, res, next) => {
     try {
+      console.log(req.body)
       await controller.createMeterReadings(req.body);
       return res.status(201).send('OK');
     } catch (err) {

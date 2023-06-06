@@ -1038,7 +1038,10 @@ webpackJsonp([1], {
                 }, [e("img", {
                     staticClass: "navbar-brand",
                     attrs: {
-                        src: "/static/img/crowdfide-logo.png"
+                        src: "/static/img/crowdfide-logo.png",
+                        alt: "crowdfide logo",
+                        width: "99",
+                        height: "42",
                     }
                 }), t._v(" "), e("a", {
                     staticClass: "navbar-brand text-white",
